@@ -1,2 +1,2 @@
 # CodeWars-Solutions
-Solutions for CodeWars problems
+Solutions I came up with for CodeWars problems
